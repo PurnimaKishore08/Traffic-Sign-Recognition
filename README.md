@@ -1,4 +1,3 @@
-# Traffic-Sign-Recognition
 # 🚦 Traffic Sign Recognition using CNN
 
 This project uses the **German Traffic Sign Recognition Benchmark (GTSRB)** dataset to build a **Convolutional Neural Network (CNN)** that classifies images of traffic signs into 43 categories. It was developed and trained using **Google Colab** and **TensorFlow/Keras**.
